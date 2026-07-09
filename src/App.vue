@@ -16,7 +16,7 @@
           <option value="en">EN 🇺🇸</option>
         </select>
 
-        <a href="" class="bg-emerald-500 text-white px-6 py-2.5 rounded-full font-bold hover:bg-emerald-600 transition">
+        <a href="https://mealflow-745df.web.app/auth/login" class="bg-emerald-500 text-white px-6 py-2.5 rounded-full font-bold hover:bg-emerald-600 transition">
           {{ t.nav.demo }}
         </a>
       </div>
